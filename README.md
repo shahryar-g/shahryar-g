@@ -1,24 +1,6 @@
 # Shahryar Goharzad
 
-Data scientist and economist working on quantitative economic modeling, applied econometrics, and large-scale data analysis.
-
-## Areas of Work
-
-- **Econometrics:** applied estimation and statistical inference
-- **Macroeconomic modeling:** DSGE models and solution methods
-- **Data science:** household survey analysis, clustering, and applied statistics
-- **Geospatial analysis:** processing and classification of building- and parcel-level data
-- **Applied AI:** data pipelines and automation built around large language models
-
-## Technical Skills
-
-**Languages:** Python, TypeScript/JavaScript, Stata, R
-
-**Data science:** pandas, NumPy, scikit-learn, Jupyter
-
-**Web and dashboards:** full-stack dashboard development with JavaScript/TypeScript, HTML/CSS, and Python backends, containerized with Docker
-
-**Other:** SQL, geospatial data processing, shell scripting, git
+Interested in economics and data science, with a focus on econometrics, macroeconomic modeling, and geospatial analysis.
 
 ## Featured Projects
 
